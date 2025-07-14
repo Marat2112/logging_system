@@ -158,14 +158,3 @@ sequenceDiagram
     Worker-->>App: Подтверждение остановки
 ```
     
-# Команды для демонстрации:
-
-bash
-# Показать сборку
-make clean && make
-
-# Показать работу
-./logger_app demo.log DEBUG
-
-# Показать содержимое лога
-tail -f demo.log
