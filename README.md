@@ -24,7 +24,7 @@ cd logging-system
 make
 
 # Запуск приложения
-LD_LIBRARY_PATH=./logger_app log.txt INFO
+LD_LIBRARY_PATH=. ./logger_app log.txt INFO
 ```
 
 ## 🖥 Использование
