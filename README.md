@@ -17,7 +17,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/logging-system.git
+git clone https://github.com/Marat2112/logging-system.git
 cd logging-system
 
 # Сборка проекта
